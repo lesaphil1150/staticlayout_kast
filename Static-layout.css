@@ -273,7 +273,7 @@ li {
   margin: 0;
   padding-top: 10em;
   height: 82vh;
-  background-image: url("../Assignments/Topimage.jpg");
+  background-image: url("./Topimage.jpg");
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -361,7 +361,7 @@ li {
 }
 
 .greenbackground {
-  background-image: url("../Assignments/green-bg.jpg");
+  background-image: url("./green-bg.jpg");
   background-color: #cccccc;
   height: 620px;
   background-position: 0px 0px;
